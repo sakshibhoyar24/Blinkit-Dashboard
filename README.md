@@ -60,6 +60,7 @@ Identifies high-performing product categories
 Supports strategic planning and operational decisions
 
 • Walkthrough of Key Visuals
+
 🔹 Key KPIs (Top Section)
 Total Sales: $1.20M
 
