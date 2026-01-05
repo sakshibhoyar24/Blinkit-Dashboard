@@ -101,4 +101,5 @@ Management Reporting: One-page dashboard for fast executive insights
 6. Screenshots / Demos
 📸 Dashboard Preview:
 Blinkit Sales & Outlet Performance Dashboard (Power BI)
+Example:Blinkit Dashboard (https://github.com/sakshibhoyar24/Blinkit-Dashboard/blob/main/Blinkit_Dashboard.png)
 
