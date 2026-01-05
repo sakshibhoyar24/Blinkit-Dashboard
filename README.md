@@ -19,6 +19,7 @@ The dashboard was developed using the following tools and technologies:
 📝 Data Modeling – Relationships defined between sales, outlet, and product tables
 
 📁 File Format – .pbix for development and .png for dashboard preview
+
 4. Data Source
 
 Source: Blinkit retail sales dataset (business case / practice dataset)
