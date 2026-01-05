@@ -19,8 +19,8 @@ The dashboard was developed using the following tools and technologies:
 📝 Data Modeling – Relationships defined between sales, outlet, and product tables
 
 📁 File Format – .pbix for development and .png for dashboard preview
-
 4. Data Source
+
 Source: Blinkit retail sales dataset (business case / practice dataset)
 
 Data Coverage Includes:
@@ -34,7 +34,6 @@ Outlet size, outlet type, and location tier
 Customer ratings and item visibility
 
 The dataset reflects real-world quick-commerce and retail business scenarios.
-
 5. Features / Highlights
 • Business Problem
 Retail and quick-commerce companies manage multiple outlet formats, product categories, and city tiers.
